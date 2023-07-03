@@ -1,2 +1,3 @@
 In this project, I'm making a food recipe website. By doing this, it will give me practice using git, using html, and finally get my hands dirty with some code in a demonstrable way. When I'm done, I intend to edit this readme to reflect new things I've learned or new insights I've gained.
 
+Looking back after completing this, I'm seeing that there really is a lot of repitition and motions to go through in coding. I learned a lot of things about navigating your code box. Things like suggestions taking up your arrow key inputs down so you can't move down a line, so I had to learn that ctrl+enter gives me a new line from any point on the previous line. All in all, I think by now I've perfectly memorized boiler plate and I feel very comfortable with base html.
